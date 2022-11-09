@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stand</string>
+    <string name="op1">Gama Baixa</string>
+    <string name="op2">Gama Média</string>
+    <string name="op3">Gama Alta</string>
+    <string name="tituloinfo">Home Stand</string>
+    <string name="titulocaros">Gama Alta</string>
+</resources>
